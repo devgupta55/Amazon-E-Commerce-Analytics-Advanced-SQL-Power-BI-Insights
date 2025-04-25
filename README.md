@@ -197,8 +197,7 @@ limit 10
 📺**Output**<br>
 ![image](https://github.com/user-attachments/assets/c4bf807a-940e-4d0c-a6bc-abb3ac45f8fa)
 
-
-✔️### For more queries (Easy → Medium → Hard), [click here](./Advanced_Queries_Amazon.sql)
+### ✔️ For more queries (Easy → Medium → Hard), [click here](./Advanced_Queries_Amazon.sql)
 
 ---
 
